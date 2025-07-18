@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fdf6e3; /* cor clarinha, tipo bege */
+  color: #333;
+  margin: 0;
+  padding: 20px;
+}
+
+header img {
+  width: 150px;
+  display: block;
+  margin: 0 auto 20px auto;
+}
+
+h1 {
+  text-align: center;
+  color: #6b4f4f; /* cor marromzinha café */
+}
